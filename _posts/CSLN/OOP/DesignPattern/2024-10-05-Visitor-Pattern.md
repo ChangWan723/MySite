@@ -3,7 +3,7 @@ title: "Visitor Pattern: the Design Pattern Born from the Defect"
 date: 2024-10-05 09:01:00 UTC
 categories: [(CS) Learning Note, OOP]
 tags: [software engineering, OOP, Design Patterns, Design Principles]
-pin: true
+pin: false
 image:
   path: /assets/img/posts/VisitorPattern.jpg
 ---
