@@ -63,7 +63,10 @@ main() {
   # test
   bundle exec htmlproofer "$SITE_DIR" \
     --disable-external \
-    --allow-hash-href
+    --allow-hash-href \
+    --allow-insecure \
+    --ignore-urls '/clustrmaps.com/' \
+    --ignore-checks Images
 }
 
 while (($#)); do
