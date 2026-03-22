@@ -350,6 +350,7 @@ Cursor integrates seamlessly with modern development tools:
 | **Pricing** | $20-50/month | $10-100/month | $20-200/month | Usage-based |
 | **Best For** | Daily development, teams | Quick edits, individuals | Complex automation | Advanced users |
 
+
 ### Strengths of Cursor
 1. **Seamless Integration**: AI feels like a natural part of the editor
 2. **Familiar Interface**: VS Code users feel immediately at home
