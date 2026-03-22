@@ -339,6 +339,7 @@ Cursor integrates seamlessly with modern development tools:
 ## Cursor vs. The Competition
 
 ### Comparison Table (2026)
+
 | Feature | Cursor | VS Code + Copilot | Claude Code | Codex CLI |
 |---------|--------|-------------------|-------------|-----------|
 | **AI Integration** | Native, core feature | Extension-based | Terminal-focused | Cloud agent |
