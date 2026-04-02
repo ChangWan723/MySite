@@ -161,7 +161,8 @@ pin: false
 
 ## 参考信息
 
-1. 古典音乐历史与发展概述 - 音乐史研究资料
-2. 西方音乐简史 - 音乐学院教材
-3. 各时期作曲家作品分析 - 音乐学术文献
-4. 古典音乐欣赏指南 - 音乐教育资料
+1. [古典音乐历史概述 - 维基百科](https://zh.wikipedia.org/wiki/%E5%8F%A4%E5%85%B8%E9%9F%B3%E4%B9%90)
+2. [西方音乐史 - 大英百科全书](https://www.britannica.com/art/Western-music)
+3. [古典音乐作曲家介绍 - Classical Music](https://www.classical-music.com/composers/)
+4. [古典音乐欣赏指南 - Naxos](https://www.naxos.com/education/classical_music_guide.asp)
+5. [音乐时期与风格 - 大都会艺术博物馆](https://www.metmuseum.org/toah/hd/musd/hd_musd.htm)
