@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(where ruby:*)",
+      "Bash(ls -d /c/Ruby*)",
+      "Bash(ls -d /e/Ruby*)",
+      "Bash(/c/Ruby34-x64/bin/ruby.exe -v)",
+      "Bash(ls -la /c/Ruby34-x64/bin/bundle*)",
+      "Bash(ruby -v)",
+      "Bash(bundle -v)",
+      "Bash(gem install:*)",
+      "Bash(bundle update:*)",
+      "Bash(bundle install:*)"
+    ]
+  }
+}
