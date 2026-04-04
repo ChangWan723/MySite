@@ -2,8 +2,8 @@
 #  Icons from <https://fontawesome.com/>
 
 platforms:
-  - type: Twitter
-    icon: "fab fa-twitter"
+  - type: X
+    icon: "fa-brands fa-x-twitter"
     link: "https://twitter.com/intent/tweet?text=TITLE&url=URL"
 
   - type: Facebook

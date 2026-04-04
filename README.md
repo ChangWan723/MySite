@@ -30,11 +30,6 @@ This is a Jekyll-based static blog using the Chirpy theme. Follow these steps to
    ```bash
    bundle install
    ```
-   
-   *Note: If you encounter Ruby version conflicts with `html-proofer`, you can skip test dependencies:*
-   ```bash
-   bundle install --without test
-   ```
 
 2. **Run the Jekyll development server:**
    ```bash

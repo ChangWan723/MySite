@@ -124,11 +124,21 @@ h1 + .post-meta {
         }
       }
 
-      .fab {
-        &.fa-twitter {
-          @include btn-sharing-color(rgba(29, 161, 242, 1));
+      .fa-brands {
+        &.fa-weixin {
+          @include btn-sharing-color(rgb(46, 194, 46));
         }
 
+        &.fa-x-twitter {
+          @include btn-sharing-color(rgb(0, 0, 0));
+        }
+
+        &.fa-square-reddit {
+          @include btn-sharing-color(rgb(255, 69, 0));
+        }
+      }
+
+      .fab {
         &.fa-facebook-square {
           @include btn-sharing-color(rgb(66, 95, 156));
         }
