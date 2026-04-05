@@ -8,8 +8,8 @@ pin: false
 
 OpenAI团队最近发布了一篇关于"Harness Engineering"的文章，描述了他们如何通过"完全不手动编写代码"的方式，使用AI代理构建和维护一个超过100万行代码的大型应用。这种新的工程范式正在重新定义我们如何构建和维护软件系统。本文深入探讨Harness Engineering的核心概念、实践方法及其对未来软件开发的影响。
 
-> **AI-Generated Content Notice:** 
-> The content of this article was researched, written, and reviewed by generative AI. Due to the potential for "hallucinations" in LLMs, the information may contain some inaccuracies. Readers are advised to exercise their own judgment regarding the technical accuracy and relevance of the content.
+> **AI 生成内容声明：** 
+> 本文的内容由生成式 AI 研究、编写和审查。由于大型语言模型可能存在"幻觉"，信息可能包含一些不准确之处。建议读者自行判断技术信息的准确性和相关性。
 {: .prompt-warning }
 
 ---
