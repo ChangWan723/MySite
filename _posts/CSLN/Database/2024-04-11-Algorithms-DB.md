@@ -367,7 +367,7 @@ So, Cost of Merge Sort for `R1` and `R2`
 
 
 - Total cost (Nested loop cost) = `(500/100) * (100 + 1,000)` = **5,500** disk accesses
-  - Same as: [Attempt 4: Contiguous Relations]()
+  - Same as: [Attempt 4: Contiguous Relations](#attempt-4-contiguous-relations-clustered)
 - Total cost (Merge join cost with sort) = sort cost + join cost =`4 * (1,000+500)` + `(1,000+500)` = **7,500** disk accesses
 - In this case, Nested Loop is better
 

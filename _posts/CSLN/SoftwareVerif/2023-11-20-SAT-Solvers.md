@@ -108,4 +108,4 @@ Since all clauses are satisfied, this assignment `(A = True, B = True, C = True)
 
 - DPLL is the basis for many modern SAT solvers. These solvers have enhanced DPLL with various heuristics and optimization techniques to efficiently handle large and complex SAT instances.
 - SAT solvers are capable of solving practical SAT problems with millions of propositional variables
-- Enormous progress has been made in SAT solving technology over the past 20 years, spurred on by the [SAT competition](http://www.satcompetition.org/)
+- Enormous progress has been made in SAT solving technology over the past 20 years, spurred on by the [SAT competition](https://www.satcompetition.org/)

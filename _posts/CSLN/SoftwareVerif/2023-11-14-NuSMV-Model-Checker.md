@@ -44,7 +44,7 @@ pin: false
 
 ## What is NuSMV?
 
-[NuSMV](http://nusmv.fbk.eu/) is a software tool(model checker) used for the formal verification of finite state systems. It is based on symbolic model checking techniques, which allow for the efficient verification of systems with a large number of states. Developed as an extension of the original SMV (Symbolic Model Verifier) system, NuSMV integrates new algorithms and analysis techniques.
+[NuSMV](https://nusmv.fbk.eu/) is a software tool(model checker) used for the formal verification of finite state systems. It is based on symbolic model checking techniques, which allow for the efficient verification of systems with a large number of states. Developed as an extension of the original SMV (Symbolic Model Verifier) system, NuSMV integrates new algorithms and analysis techniques.
 
 - NuSMV is a symbolic model checker developed by ITC-IRST and Univ. Trento with the collaboration of CMU and Univ.  Genova.
 - it supports the modelling of both **synchronous** and **asynchronous** systems
