@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -s -L -o /dev/null -w \"%{http_code}\\\\n\" \"https://xueqiu.com/1464536232/353362125\")",
+      "Bash(curl -s -L -o /dev/null -w \"%{http_code}\\\\n\" \"https://www.zhihu.com/question/1923534024288236685/answer/2021258227166319271\")",
+      "Bash(curl -s -L -o /dev/null -w \"%{http_code}\\\\n\" \"https://finance.sina.com.cn/roll/2026-04-14/doc-inhunavz9090841.shtml\")",
+      "Bash(curl -s -L -o /dev/null -w \"%{http_code}\\\\n\" \"https://mp.weixin.qq.com/s?__biz=Mzk5MDA4MzUwNw==&mid=2247484296&idx=1&sn=ea3a093095e9a2c9d77699c447ee6810&scene=21&poc_token=HJEuQWqjPluWLnx-KdEQQ-g7WU2f4pmoeiSBZrNk\")",
+      "Bash(curl -s -L -o /dev/null -w \"%{http_code}\\\\n\" \"https://zhuanlan.zhihu.com/p/2036616553274270531\")",
+      "Bash(curl -s -L -o /dev/null -w \"%{http_code}\\\\n\" \"https://blog.csdn.net/qq8864/article/details/157518314\")",
+      "Bash(ruby \"e:/front-end code/jekyll/MySite/tmp_verify.rb\")"
+    ]
+  }
+}
